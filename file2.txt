@@ -1,0 +1,2 @@
+  this is the 2nd file DIFF CMD staged cmd
+this is cmd used to track the file but no need to commit for this we are using this cmd  modifuied 
