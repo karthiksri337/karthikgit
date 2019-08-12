@@ -1,3 +1,0 @@
-this is the 1st file creaded in working directory 
-this file has been added to staging area
-
